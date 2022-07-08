@@ -11,7 +11,7 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"clan://xm/xm.jar",
+"spider":"clan://localhost/xm/xm.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20veGlzb2hpL2lwdHYvcmF3L21hc3Rlci9saXZlLnR4dA=="
